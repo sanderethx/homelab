@@ -3,9 +3,9 @@
  Este espaço é onde documento todo o processo no ambiente de homologação para a criação do meu HomeLab.
 </h2>
 
-Diagrama de rede do laboratório:
+- 💎 Diagrama de rede inicial do Homelab Homologação:
 
-
+![Homelab](https://github.com/sanderethx/homelab/blob/main/Homelab.svg)
 
 
 
