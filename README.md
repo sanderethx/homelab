@@ -18,7 +18,7 @@ A fim de testar algo novo, resolvi migrar do **PFSENSE** para o **SOPHOS HOME ED
 ```linux
 https://www.sophos.com/pt-br/free-tools/sophos-xg-firewall-home-edition
 ```
-- 💎 Para importação da imagem original do site da Sophos, baixe a versão KVM e descompacte na pasta
+- 💎 Para importação da imagem original do site da Sophos, baixe a versão KVM e descompacte na pasta:
 ```linux
 /opt/unetlab/addons/qemu/sophos-fw-VERSAO-DA-IMAGEM
 ```
@@ -30,11 +30,11 @@ Exemplo:
 
 - 💎 Renomear os discos dentro da pasta criada conforme abaixo:
 
-- 💎 Para o disco PRIMARY-DISK.QCOW2, utilizar o nome:
+- 💎 Para o disco **PRIMARY-DISK.QCOW2**, utilizar o nome:
 ```linux
 virtioa.qcow2
 ```
-- 💎 Para o disco AUXILIARY-DISK.QCOW2, utilizar o nome:
+- 💎 Para o disco **AUXILIARY-DISK.QCOW2**, utilizar o nome:
 ```linux
 virtiob.qcow2
 ```
