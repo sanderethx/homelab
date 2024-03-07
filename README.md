@@ -39,7 +39,7 @@ Para o disco **AUXILIARY-DISK.QCOW2**, utilizar o nome:
 ```linux
 virtiob.qcow2
 ```
-Após realizar os ajustes, corrigir as permissões utilizando o comando:
+Após realizar os ajustes, corrigir as permissões dos diretórios e arquivos do PNETLAB utilizando o comando:
 ```linux
 unl_wrapper -a fixpermissions
 ```
