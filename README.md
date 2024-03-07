@@ -29,7 +29,8 @@ Dentro do [PNETLAB](https://www.youtube.com/watch?v=6XcsoaGveW4), meu ambiente d
 
 ## 🚀 KVM Hypervisor<a id="Hypervisor"></a>
 
-Minha escolha de Hypervisor foi o Proxmox, devido ser um sistema muito leve e me dá várias possibilidades como: Contêiners LXC (Linux Contêiners), HA (High Availability) e Clusterização.
+Minha escolha de Hypervisor foi o [Proxmox](https://www.proxmox.com/en/downloads), devido ser um sistema muito leve e me dá várias possibilidades como: Contêiners LXC (Linux Contêiners), HA (High Availability) e Clusterização.
+O vídeo para instalação Bare Metal pode ser [ACESSADO AQUI!](https://www.youtube.com/watch?v=QJTG2Tl2QtU)
 
 ## 🚀 Referências<a id="Ref"></a>
 
