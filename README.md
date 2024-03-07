@@ -3,18 +3,20 @@
  Este espaço é onde documento todo o processo no ambiente de homologação para a criação do meu HomeLab.
 </h2>
 
-- 💎 Diagrama de rede inicial do Homelab Homologação:
 
-![Homelab](https://github.com/sanderethx/homelab/blob/main/Homelab.svg)
 
 
 
 ## 📚 Sumário
 
+- [🚀 Diagrama Inicial](#Diagrama)
 - [🚀 Escolha do Firewall](#Firewall)
 - [🚀 Switch](#Switch)
 - [🚀 KVM Hypervisor](#Hypervisor)
-- [🚀Referências](#Ref)
+
+## 🚀 Diagrama Inicial do Homelab Homologação<a id="Diagrama"></a>
+
+![Homelab](https://github.com/sanderethx/homelab/blob/main/Homelab.svg)
 
 ## 🚀 Escolha do Firewall<a id="Firewall"></a>
 
@@ -62,7 +64,3 @@ Dentro do [PNETLAB](https://www.youtube.com/watch?v=6XcsoaGveW4), meu ambiente d
 
 Minha escolha de Hypervisor foi o [Proxmox](https://www.proxmox.com/en/downloads), devido ser um sistema muito leve e me dá várias possibilidades como: Contêiners LXC (Linux Contêiners), HA (High Availability) e Clusterização.
 O vídeo para instalação Bare Metal pode ser [ACESSADO AQUI!](https://www.youtube.com/watch?v=QJTG2Tl2QtU)
-
-## 🚀 Referências<a id="Ref"></a>
-
-Em construção.
