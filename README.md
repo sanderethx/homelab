@@ -3,9 +3,10 @@
  Este espaço é onde documento todo o processo no ambiente de homologação para a criação do meu HomeLab.
 </h2>
 
-Diagrama d
+Diagrama de rede do laboratório:
 
-![home-lab](https://github.com/sanderethx/homelab/assets/61508739/2c123c48-d214-48e4-b355-4a7aaea99439)
+
+
 
 
 ## 📚 Sumário
