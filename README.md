@@ -1,5 +1,4 @@
 # HomeLab
-Este espaço é onde documento todo o processo no ambiente de homologação para a criação do meu HomeLab.
 
 <h2 aligh="center">
  Este espaço é onde documento todo o processo no ambiente de homologação para a criação do meu HomeLab.
